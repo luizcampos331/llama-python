@@ -65,6 +65,7 @@ Open your terminal, navigate to your desired folder, and run the commands below:
 1. Duplicate the file .env.example, rename to .env and define your "OLLAMA_MODEL":
 ```
 OLLAMA_MODEL=your-model-here
+```
 
 2. Run the application:
 ```
